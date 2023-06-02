@@ -1,0 +1,16 @@
+.catagaries.logo{
+    
+    text-transform: initial;
+    text-align: left;
+    text-decoration-style: double;
+
+}
+.catagaries ul li {
+    background-color:rgb(240, 240, 240) ; 
+    padding: 5px;
+    border-radius: 10%;
+}
+.catagaries ul li a{
+    color: black; 
+    text-decoration-line: none;
+}
